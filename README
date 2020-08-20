@@ -1,0 +1,11 @@
+# Discord-Bot
+Code for a Discord bot using node.js, and discord.js
+
+1. Download node.js (Downlad latest version)
+2. Create a folder name it 'Discord Bot'
+3. Open Command Prompt cd into the folder then type 'npm init' (DO NOT CLOSE COMMAND PROMPT)
+4. (Ignore if it says 'WARN') Press enter for everything you can fill in where it says 'Description' and 'Author'
+5. Download Visual Studio Code
+6. Open the 'Discord Bot' Folder with Visual Studio Code
+7. Go to Command Prompt again and type 'npm install discord.js' (Ignore if it says 'WARN')
+8. In Visual Studio Code create a new file name it 'index.js' and Create a Folder named 'Commands'
