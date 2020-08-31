@@ -10,6 +10,7 @@ Code for a Discord bot using node.js, and discord.js
 7. Go to Command Prompt again and type 'npm install discord.js' (Ignore if it says 'WARN')
 8. In Visual Studio Code create a new file name it 'index.js' and Create a Folder named 'commands'(THE C IN COMMANDS MUST BE CAPITAL)
 9. Paste the code in index.js in the file 'index.js'
-10.Go to Discord Developers Portal create an Application then go to the tab that says 'Bot' create a Bot copy ts Token! Paste it in 
+10.Go to Discord Developers Portal create an Application then go to the tab that says 'Bot' create a Bot copy ts Token!
+
 https://github.com/Tharakesh-coder/Discord-Bot/commit/98a03769e1e040d58d2335c9468885aab8df021c
 
